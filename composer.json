@@ -1,0 +1,15 @@
+{
+  "name": "fortvision/php-lib",
+  "description": "PHP Lib for Fortvision API",
+  "keywords": [
+    "fortvision",
+    "ecommerce",
+    "api",
+    "php"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Fortvision\\": "src/"
+    }
+  }
+}
